@@ -1,0 +1,10 @@
+#start{
+    position: absolute;
+    top:45%;
+    left:45%;
+    font-size: 200%;
+}
+
+html{
+    background-color: aquamarine;
+}
